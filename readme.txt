@@ -1,2 +1,5 @@
-asiainfo git
-luohan@asiainfi.com
+asiainfo git commit
+luohan@asiainfo.com
+
+
+the life is full of ups and downs.
