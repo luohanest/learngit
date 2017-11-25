@@ -1,5 +1,2 @@
-asiainfo git commit
-luohan@asiainfo.com
+life is really plain
 
-
-the life is full of ups and downs.
